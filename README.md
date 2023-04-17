@@ -10,7 +10,7 @@
 <h2>Usage</h2>
 <ol>
 	<li>Install the required packages with <code>pip install -r requirements.txt</code></li>
-	<li>Run the program with <code>python rsa_geo.py</code></li>
+	<li>Run the program with <code>python geo_password_encrypter.py</code></li>
 	<li>Enter a message to encrypt or decrypt, along with the latitude and longitude of the location to use for encryption/decryption</li>
 </ol>
 
